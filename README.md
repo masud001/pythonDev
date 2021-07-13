@@ -1,2 +1,2 @@
 # pythonDev
-Python Problem solving rempo :)
+Python Problem-solving repo :)
